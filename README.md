@@ -37,7 +37,7 @@ build.gradle:
 
 ```groovy
 plugins {
-  id 'com.github.johnrengelman.shadow' version '8.1.1'
+  id 'com.gradleup.shadow' version '8.3.0'
   id 'io.github.revxrsal.zapper' version '1.0.3'
 }
 ```
@@ -46,7 +46,7 @@ build.gradle.kts:
 
 ```groovy
 plugins {
-  id("com.github.johnrengelman.shadow") version "8.1.1"
+  id("com.gradleup.shadow") version "8.3.0"
   id("io.github.revxrsal.zapper") version "1.0.3"
 }
 ```
